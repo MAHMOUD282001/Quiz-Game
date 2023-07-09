@@ -1,10 +1,10 @@
 import './App.css'
-import QuizApp from './components/QuizApp/QuizApp'
+import PasswordChallenge from './components/PasswordChallenge/PasswordChallenge'
 
 function App() {
   return (
     <>
-      <QuizApp/>
+      <PasswordChallenge/>
     </>
   )
 }
